@@ -1,4 +1,4 @@
-# HOLA-MUNDO-
-MI PRIMER REPOSITORIO PRUEBA 
-AUTOR: JUAN PEREZ
-FECHA AYER Y MAÑANA 
+# hola mundo 
+mi primer repositorio (prueba)
+autor:jyuan perez 
+fecha hoy y mañana 14/02/22
